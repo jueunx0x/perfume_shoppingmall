@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="perfume_shoppingmall:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/perfume_shoppingmall_Web</output-path>
+    <root id="archive" name="perfume_shoppingmall_Web.war">
+      <element id="artifact" artifact-name="perfume_shoppingmall:Web exploded" />
+    </root>
+  </artifact>
+</component>
